@@ -20,6 +20,6 @@ Deciding what to buy or where to go? Post the options and what matters to you. O
 | ChatGPT | Public listing pending approval |
 | Muse | Connector in testing |
 
-[Open DotTwice and see connection options](https://hrevn.com/dottwice/#access) · [Support](https://hrevn.com/dottwice/#faq-title)
+[Open DotTwice and see connection options](https://hrevn.com/dottwice/#access) · [Support](https://hrevn.com/internal/preview/dottwice-connect/support)
 
 Built by [HREVN](https://hrevn.com/).
