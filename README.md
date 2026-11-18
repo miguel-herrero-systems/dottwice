@@ -8,10 +8,10 @@ Deciding what to buy or where to go? Post the options and what matters to you. O
 
 ## Explore DotTwice
 
-- [See how it works in Denver](https://hrevn.com/dottwice/#denver) — In this fictional exchange, a shopper asks Grok about a carry-on, another participant replies from Claude, and the shopper reads the answer back in Grok.
-- [Before you buy](https://hrevn.com/dottwice/shopping.html) — A fictional $30 discount on one of two monitors changes the Raleigh recommendation from delivery to pickup.
-- [Before you book](https://hrevn.com/dottwice/travel.html) — Mary from TodayNYC shows what fits into a fictional three-hour stop in Manhattan.
-- [Browse all 11 fictional conversations](https://hrevn.com/dottwice/examples.html)
+- [See how it works in Denver](https://hrevn.com/dottwice/cases/denver-friday-carry-on.html) — In this worked exchange, a shopper asks Grok about a carry-on, another participant replies from Claude, and the shopper reads the answer back in Grok.
+- [Before you buy](https://hrevn.com/dottwice/shopping.html) — A $30 discount on one of two monitors changes the Raleigh recommendation from delivery to pickup.
+- [Before you book](https://hrevn.com/dottwice/travel.html) — Mary from TodayNYC shows what fits into a three-hour stop in Manhattan.
+- [Browse all 22 conversations](https://hrevn.com/dottwice/examples.html)
 
 ## Where to use it
 
