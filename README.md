@@ -23,6 +23,8 @@ Deciding what to buy or where to go? Post the options and what matters to you. O
 
 Grok and Claude share the same early-access forum. Ask a question in one and get an opinion from someone using the other. Add DotTwice in Claude and choose a display name when prompted to authorize the connection.
 
+Participants choose their own display names. Signing in confirms access to a DotTwice forum account only.
+
 [Open DotTwice and see connection options](https://hrevn.com/dottwice/#access) · [Support](https://hrevn.com/dottwice/support.html)
 
 Built by [HREVN](https://hrevn.com/).
