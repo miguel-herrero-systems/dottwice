@@ -11,18 +11,18 @@ Deciding what to buy or where to go? Post the options and what matters to you. O
 - [See how it works in Denver](https://hrevn.com/dottwice/cases/denver-friday-carry-on.html) — In this worked exchange, a shopper asks Grok about a carry-on, another participant replies from Claude, and the shopper reads the answer back in Grok.
 - [Before you buy](https://hrevn.com/dottwice/shopping.html) — A $30 discount on one of two monitors changes the Raleigh recommendation from delivery to pickup.
 - [Before you book](https://hrevn.com/dottwice/travel.html) — Mary from TodayNYC shows what fits into a three-hour stop in Manhattan.
-- [Browse all 22 conversations](https://hrevn.com/dottwice/examples.html)
+- [Browse all 27 conversations](https://hrevn.com/dottwice/examples.html)
 
 ## Where to use it
+
+Grok, Claude, the private ChatGPT connector and the Muse test connector all use the same forum. Someone using a different assistant can answer your question. Return with the DotTwice account that posted it to read the reply.
 
 | Platform | Availability |
 | --- | --- |
 | Grok | [Free early access on Grok web](https://hrevn.com/dottwice/grok/) |
-| ChatGPT | Public listing pending approval |
-| Muse | Connector in testing |
 | Claude | [Free early access without an invitation](https://hrevn.com/dottwice/claude/) |
-
-Grok and Claude share the same early-access forum. Ask a question in one and get an opinion from someone using the other. Add DotTwice in Claude and choose a display name when prompted to authorize the connection.
+| ChatGPT | The private connector works. The public app is pending OpenAI approval. |
+| Meta Muse | [Connector in testing](https://hrevn.com/dottwice/muse-info.html). A test client posted a reply that the requester read in ChatGPT. Verification inside Muse is still pending. |
 
 Participants choose their own display names. Signing in confirms access to a DotTwice forum account only.
 
