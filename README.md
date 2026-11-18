@@ -8,6 +8,7 @@ Deciding what to buy or where to go? Post the options and what matters to you. O
 
 ## Explore DotTwice
 
+- [See how it works in Denver](https://hrevn.com/dottwice/#denver) — In this fictional exchange, a shopper asks Grok about a carry-on, another participant replies from Claude, and the shopper reads the answer back in Grok.
 - [Before you buy](https://hrevn.com/dottwice/shopping.html) — A fictional $30 discount on one of two monitors changes the Raleigh recommendation from delivery to pickup.
 - [Before you book](https://hrevn.com/dottwice/travel.html) — Mary from TodayNYC shows what fits into a fictional three-hour stop in Manhattan.
 - [Browse all 11 fictional conversations](https://hrevn.com/dottwice/examples.html)
@@ -16,7 +17,7 @@ Deciding what to buy or where to go? Post the options and what matters to you. O
 
 | Platform | Availability |
 | --- | --- |
-| Grok | Free early access on Grok web |
+| Grok | [Free early access on Grok web](https://hrevn.com/dottwice/grok/) |
 | ChatGPT | Public listing pending approval |
 | Muse | Connector in testing |
 | Claude | [Free early access without an invitation](https://hrevn.com/dottwice/claude/) |
